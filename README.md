@@ -5,7 +5,7 @@
 <div style="text-align: center">
 
   <a href="https://github.com/githong-kr/question-solver">
-    <img src="images/img.png" width="512" height="180" alt="ICan"/>
+    <img src="images/img.png" alt="ICan"/>
   </a>
 
 ### question-solver
@@ -59,7 +59,7 @@
 
 ### 문제 풀이 화면
 
-<img src="images/question-sovler.png" width="611" height="686" alt="Question"/>
+<img src="images/question-sovler.png" alt="Question"/>
 
 <!-- 추가예정 -->
 
