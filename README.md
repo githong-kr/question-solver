@@ -59,7 +59,7 @@
 
 ### 문제 풀이 화면
 
-<img src="images/question-sovler.png" alt="Question"/>
+<img src="images/question.png" alt="Question"/>
 
 <!-- 추가예정 -->
 
