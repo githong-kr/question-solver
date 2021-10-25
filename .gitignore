@@ -1,0 +1,10 @@
+# Node.js & Next.js
+.next
+node_modules
+
+# Environment
+.env
+
+# Google Api Info
+credentials.json
+token.json
